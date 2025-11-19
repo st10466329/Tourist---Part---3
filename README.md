@@ -113,7 +113,7 @@ The website includes interactive features like a rotating globe, embedded map, g
 
 ## **8. GitHub Repository Link**
 
-[**Add your final GitHub link here after pushing your files**]
+https://github.com/st10466329/Tourist---Part---3.git 
 
 ---
 
