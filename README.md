@@ -97,27 +97,17 @@ The website includes interactive features like a rotating globe, embedded map, g
 
 ---
 
-## **7. References**
 
-- W3Schools. *HTML Tutorial*. Available at: https://www.w3schools.com/html/  
-- W3Schools. *CSS Tutorial*. Available at: https://www.w3schools.com/css/  
-- W3Schools. *JavaScript Tutorial*. Available at: https://www.w3schools.com/js/  
-- MDN Web Docs. *HTML Element Reference*. Available at: https://developer.mozilla.org/en-US/docs/Web/HTML  
-- MDN Web Docs. *CSS Reference*. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS  
-- MDN Web Docs. *JavaScript Reference*. Available at: https://developer.mozilla.org/en-US/docs/Web/JavaScript  
-- Google Developers. *Maps Embed API Documentation*. Available at: https://developers.google.com/maps/documentation/embed  
-- Lightbox2 Documentation. *Image Gallery Lightbox Guide*. Available at: https://lokeshdhakar.com/projects/lightbox2/  
-- StackOverflow. *General Web Development Discussions and Solutions*. Available at: https://stackoverflow.com/  
 
 ---
 
-## **8. GitHub Repository Link**
+## **7. GitHub Repository Link**
 
 https://github.com/st10466329/Tourist---Part---3.git 
 
 ---
 
-## **9. Final Notes**
+## **8. Final Notes**
 
 This project was completed as part of the WIL Web Development module.  
 
