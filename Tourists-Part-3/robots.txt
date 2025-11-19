@@ -1,0 +1,7 @@
+# robots.txt
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+
+# Allow all other pages to be crawled
+Allow: /
